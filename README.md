@@ -14,6 +14,8 @@ les protocoles (MCP, A2A…) et la sécurité.
 | 004 | [mattpocock/skills — Skills pour dev solo TypeScript](fiches/004-mattpocock-skills.md) | Agents IA / Prompt Engineering | 2026-05-24 |
 | 005 | [UI-TARS-desktop — Agent multimodal Computer Use (ByteDance)](fiches/005-ui-tars-desktop.md) | Agents IA / IA Locale / Computer Use | 2026-05-24 |
 | 006 | [agentmemory — Mémoire persistante sémantique via MCP](fiches/006-agentmemory.md) | Agents IA / Mémoire / MCP | 2026-05-24 |
+| 007 | [hermes-agent — Framework agent auto-améliorant (NousResearch)](fiches/007-hermes-agent.md) | Agents IA / IA Locale / Framework | 2026-05-24 |
+| 008 | [9router — Routeur LLM multi-provider + RTK token saver](fiches/008-9router.md) | Agents IA / Optimisation coûts | 2026-05-24 |
 
 ## 🗂️ Catégories
 - **Sécurité** — outils d'audit, supply-chain, protection des agents
