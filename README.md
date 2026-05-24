@@ -9,6 +9,7 @@ les protocoles (MCP, A2A…) et la sécurité.
 | # | Titre | Catégorie | Date |
 |---|-------|-----------|------|
 | 001 | [Bumblebee — Scanner supply-chain pour env dev](fiches/001-bumblebee.md) | Sécurité | 2026-05-24 |
+| 002 | [andrej-karpathy-skills — CLAUDE.md guidelines pour agents de code](fiches/002-andrej-karpathy-skills.md) | Prompt Engineering / Agent Behavior | 2026-05-24 |
 
 ## 🗂️ Catégories
 - **Sécurité** — outils d'audit, supply-chain, protection des agents
