@@ -16,6 +16,7 @@ les protocoles (MCP, A2A…) et la sécurité.
 | 006 | [agentmemory — Mémoire persistante sémantique via MCP](fiches/006-agentmemory.md) | Agents IA / Mémoire / MCP | 2026-05-24 |
 | 007 | [hermes-agent — Framework agent auto-améliorant (NousResearch)](fiches/007-hermes-agent.md) | Agents IA / IA Locale / Framework | 2026-05-24 |
 | 008 | [9router — Routeur LLM multi-provider + RTK token saver](fiches/008-9router.md) | Agents IA / Optimisation coûts | 2026-05-24 |
+| 009 | [NVIDIA Agent Skills — Catalog de skills portables pour agents IA](fiches/009-nvidia-skills.md) | Agents IA | 2026-05-25 |
 
 ## 🗂️ Catégories
 - **Sécurité** — outils d'audit, supply-chain, protection des agents
