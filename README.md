@@ -17,6 +17,7 @@ les protocoles (MCP, A2A…) et la sécurité.
 | 007 | [hermes-agent — Framework agent auto-améliorant (NousResearch)](fiches/007-hermes-agent.md) | Agents IA / IA Locale / Framework | 2026-05-24 |
 | 008 | [9router — Routeur LLM multi-provider + RTK token saver](fiches/008-9router.md) | Agents IA / Optimisation coûts | 2026-05-24 |
 | 009 | [NVIDIA Agent Skills — Catalog de skills portables pour agents IA](fiches/009-nvidia-skills.md) | Agents IA | 2026-05-25 |
+| 010 | [StemDeck — Séparation de stems audio locale (Demucs)](fiches/010-stemdeck.md) | IA Locale / Audio / Open Source | 2026-05-31 |
 
 ## 🗂️ Catégories
 - **Sécurité** — outils d'audit, supply-chain, protection des agents
